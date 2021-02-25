@@ -1,0 +1,21 @@
+
+* {
+
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    
+}
+ header, form {
+     display: flex;
+     min-height: 15vh;
+     justify-content: center;
+     align-items: center;
+ }
+
+ form, input, form button{
+     padding: 0.8rem;
+     margin-left: 1.8rem;
+     margin-right: 1.8rem;
+ }
+ 
